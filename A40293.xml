@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all the nations under the whole heavens and to all those that have ministred to the letter and yet are ignorant ... from those people who are despitefully called Quakers, who tremble at the word of God in their hearts ... / [by] G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40293</idno><idno type="EEBO-CITATION">11305340</idno>
+  <idno type="VID">47386</idno>
+  <idno type="EEBO-PROQUEST">2240889256</idno>
+  
+            <idno type="STC">Wing F1950</idno>
+            <idno type="STC">ESTC R30384</idno>
+            <idno type="OCLC">11305340</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A40293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all the nations under the whole heavens and to all those that have ministred to the letter and yet are ignorant ... from those people who are despitefully called Quakers, who tremble at the word of God in their hearts ... / [by] G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Wilson and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47386:1"/>
+            <pb facs="tcp:47386:1"/>
+            <p>TO ALL THE NATIONS UNDER THE WHOLE HEAVENS: AND To all those who have Ministred the LETTER, and yet are ignorant, and have and have kept others in the ignorance both of the Letter and Spirit also.</p>
+            <p>From those people who are despite<g ref="char:EOLhyphen"/>fully called, QUAKERS, Who tremble at the <hi>Word of God</hi> In their HEARTS: To which Word all the holy Men of God have brought forth their Testimony after the same manner, (and who are appeared in that which cannot be shaken) as the Scriptures of the Old and New-Testament do eminent<g ref="char:EOLhyphen"/>ly declare and set forth.</p>
+            <p>
+               <hi>G. F.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Wilson,</hi> and are to be sold at his Shop at the sign of the <hi>Black-spread-Eagle</hi> and <hi>Windmill</hi> in <hi>Martins l' Grand,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:47386:2"/>
+            <pb n="1" facs="tcp:47386:2"/>
+            <head>To all the Nations under the whole hea<g ref="char:EOLhyphen"/>vens, who have ministred the Letter, and yet are ignorant of the Letter, and have kept others in the ignorance, <hi>&amp;c.</hi>
+            </head>
+            <p>HEarken ye Mountains, and give ear ye mighty Foundations of the Earth: Have not all those Prophets and Teachers followed their own Spirit, and have seen nothing, that say, they have not the same Power and Spirit the Apostles had? And have not all you Prophets been like the Foxes that have wooried the Lambs,<note place="margin">
+                  <hi>Ezek.</hi> 13.</note> and have not stood in the gap, and worse then them that have prea<g ref="char:EOLhyphen"/>ched for handfuls of Barley, and pieces of bread; for you have done worse that by force have taken it away by Cart-loads, and cast into prison till death: besides, this shews the Idol in your hearts, which makes you to stumble in your own wickedness, <hi>Ezek.</hi> 14.</p>
+            <p>When <hi>Ephraim</hi> spake <hi>Trembling,</hi>
+               <note place="margin">
+                  <hi>Hosea</hi> 13.</note> he was exalted in <hi>Israel:</hi> What! Was he a <hi>Quaker?</hi> And the Heathen trembled; what! must they turn <hi>Quakers?</hi>
+            </p>
+            <p>Blow the <hi>Trumpet</hi> in <hi>Sion,</hi> sound an <hi>Alarm</hi> in my <hi>ho<g ref="char:EOLhyphen"/>ly Mountain,</hi> let all the Inhabitants of the earth trem<g ref="char:EOLhyphen"/>ble; what! Must all those turn <hi>Quakers?</hi> You that de<g ref="char:EOLhyphen"/>spise <hi>trembling,</hi> it seems you have not yet heard this Trumpet;<note place="margin">
+                  <hi>Ioel</hi> 2.1.</note> But in the day of the Lord this shall be wit<g ref="char:EOLhyphen"/>nessed, when streams and floods fall upon you, and consuming fire flames before and behind you; then shall
+<pb n="2" facs="tcp:47386:3"/> all faces gather blackness, and the earth shall <hi>quake,</hi> and the Heavens shall be <hi>moved;</hi> and this we witness, the fearful and horrible day of the Lord is upon you that despise <hi>trembling</hi> at the Word of God: when the Lord is a defence unto his people, the Heavens and the Earth shall <hi>quake,</hi> and you shall know the Lord dwels in his holy Mountain, and the Lord treadeth upon the high places of the earth; his Name is The Lord of Hosts.<note place="margin">
+                  <hi>Ioel</hi> 4.13. <hi>Amos</hi> 8.</note> Shall not that Land tremble that have sold the Chaff for the Corn, saith the Lord of Hosts? And shal not destruction come upon them that have seduced the people, by saying <hi>Peace,</hi> and there is <hi>no Peace?</hi> And shall not their <hi>Songs</hi> be turned into <hi>howling,</hi> and they hunger after the Word of God, and cannot find it; and the time shall come that ye shall <hi>tremble, Mic.</hi> 7.<note place="margin">
+                  <hi>Micah</hi> 7.</note> the Moun<g ref="char:EOLhyphen"/>tains <hi>tremble</hi> and <hi>quake</hi> at the Lord,<note place="margin">
+                  <hi>Ier.</hi> 4.24.</note> and the hills do melt at the Lord, <hi>Nahum</hi> 1.5.<note place="margin">
+                  <hi>Nahum</hi> 1.5.</note> these here, you see be<g ref="char:EOLhyphen"/>came <hi>Quakers;</hi>
+               <note place="margin">
+                  <hi>Joel</hi> 2.10.</note> they are called Mountains and Hills that be above the people, and the Mountains and the Earth shall quake, yea the whole world, and all that dwell therein; and you must be an astonishment, and stript, that you may hear this, whose knees shall <hi>t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em<g ref="char:EOLhyphen"/>ble</hi> then, ye that scorn <hi>quaking:</hi> The Seed is the end of the Law,<note place="margin">
+                  <hi>Nehem.</hi> 3.</note> and all figures and parables which pertain to the first earthly <hi>Adam,</hi> which Christ the Seed ends in, the Earth trembles, and the Heavens rend, and the Clouds drop with water.<note place="margin">
+                  <hi>Iudges</hi> 5.</note>
+            </p>
+            <p>And was not <hi>Ezekiel</hi> a Quaker, whom the Lord com<g ref="char:EOLhyphen"/>manded to eat his bread <hi>with quaking,</hi> and drink his water <hi>with trembling?</hi>
+               <note place="margin">
+                  <hi>Ezek</hi> 12.</note> and fearfulness and sorrow, a sign to the people that they should eat their bread with heaviness, and drink their water with sorrow, and they should know he was the Lord.</p>
+            <pb n="3" facs="tcp:47386:3"/>
+            <p>All men that be upon the earth shall <hi>tremble</hi> for fear of the Lord, <hi>Ezek.</hi> 38.20.<note place="margin">
+                  <hi>Ezek.</hi> 38.20</note>
+            </p>
+            <p>And was not <hi>Daniel</hi> a <hi>Quaker?</hi> did not he <hi>tremble</hi> when the Angel spake to him? yea, was not his strength and his breath gone, that he fell down, <hi>Dan.</hi> 10?<note place="margin">
+                  <hi>Dan.</hi> 10.</note>
+            </p>
+            <p>When <hi>Habbakkuk</hi> heard the words of the Lord, his belly <hi>trembled,</hi> and his lips <hi>quivered,</hi> and I trembled in my self? <hi>Hab.</hi> 3.16.<note place="margin">
+                  <hi>Hab.</hi> 3.16.</note> You may see <hi>Habbakkuk</hi> was a Quaker.</p>
+            <p>And doth not <hi>Solomon</hi> say, the keepers of the house shall <hi>tremble,</hi> the strong men shall <hi>bow themselves?</hi> What, is not here <hi>qu king?</hi> Must not you know this, before you know <hi>Paradice?</hi>
+            </p>
+            <p>
+               <hi>Isaac trembled, Gen.</hi> 27.33.<note place="margin">
+                  <hi>Gen.</hi> 27.33.</note>
+               <hi>Isaac trembled exceeding<g ref="char:EOLhyphen"/>ly;</hi> Was not he a <hi>Quaker?</hi> And did not hee serve the Lord?</p>
+            <p>And <hi>Pharoah</hi> counted <hi>Moses</hi>'s words as idle words, and the people; and so terrible was the sight, that <hi>Moses</hi> did <hi>fear</hi> and <hi>quake</hi> when God spake to him in the bush: <hi>Heb.</hi> 12. <hi>Moses</hi> was a <hi>Quaker,</hi> whom <hi>Pharoah</hi> bid,<note place="margin">
+                  <hi>Heb.</hi> 12.21.</note> Get thee out of my sight.</p>
+            <p>The <hi>Moabites</hi> trembled at the wonders of the Saints;<note place="margin">
+                  <hi>Acts</hi> 7.32. <hi>Exod.</hi> 15.15.</note> they that transgress the command of the Lord, shall be <hi>as a shaking leaf,</hi> and shall have no power to stand before their Enemies; then shall they not despise <hi>trem<g ref="char:EOLhyphen"/>bling</hi> and <hi>quaking</hi> at the word of the Lord.</p>
+            <p>
+               <hi>David</hi> said when his cry entered into the ears of the Lord, the earth trembled and quaked,<note place="margin">2 <hi>Sam.</hi> 22.7, 8. <hi>Psal.</hi> 18.6, 7. <hi>Deut.</hi> 2.25.</note> and the founda<g ref="char:EOLhyphen"/>tions shook, and dread and feare came upon the Nati<g ref="char:EOLhyphen"/>ons under the whole heaven: Thou didst, O Lord, cause thy Judgements to be heard from Heaven,<note place="margin">
+                  <hi>Psal.</hi> 77.18. <hi>Psal.</hi> 97.4.</note> and <hi>the earth trembled</hi> and was stil; at the Voice of the Lord
+<pb n="4" facs="tcp:47386:4"/> there was <hi>Thunderings;</hi>
+               <note place="margin">
+                  <hi>Psal.</hi> 104.32.</note> and <hi>Lightnings, the earth shoke,</hi> &amp; the <hi>earth trembleth</hi> at the look of the Lord, &amp; if he touch the hills, they smoke, the earth <hi>trembled</hi> at the presence of the Lord, who carries his Lambs in his Arm, <hi>Psal.</hi> 121.<note place="margin">
+                  <hi>Psa.</hi> 121.</note> Thou puttest away all the ungodly from off the earth like dross; I love thy testimonie, <hi>Psal.</hi> 119.119, 120.<note place="margin">
+                  <hi>Psal.</hi> 119.119, 121.</note>
+               <hi>My flesh trembleth for fear of thee, I love thy testimo<g ref="char:EOLhyphen"/>nie:</hi> Here you may see <hi>David</hi> was a <hi>Quaker,</hi> who lo<g ref="char:EOLhyphen"/>ved the testimony of God, and the Word of God in his heart, and had outstript his Teachers; the earth trem<g ref="char:EOLhyphen"/>bled for the fear that was sent out from God, 1 <hi>Sam.</hi> 14.<note place="margin">1 <hi>Sam.</hi> 14.</note> you shall know this feare, though you be out of it now.</p>
+            <p>Honour me before the people, saith <hi>Saul</hi> to <hi>Samuel:</hi> when <hi>Saul</hi> disobeyed the good Spirit,<note place="margin">1 <hi>Sam.</hi> 15.</note> the evil came in, when he went from the Word of the Lord: When the Power of the Lord goeth over all in the womb, then the heart is not hardened. Thus saith the Lord, <hi>But to this man will I l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok, even to him that is poor, and of a contrite spirit, and trembleth at my word, Isa.</hi> 66.2.<note place="margin">
+                  <hi>Isa.</hi> 66.2. <hi>Isa.</hi> 66.5.</note> Here you may see it is the <hi>Quakers</hi> the Lord doth regard, and saith, <hi>Hear the word of the Lord all ye that do tremble at his word:</hi> Your brethren hate you, and cast you out, and say, Let the Lord be glorified, and he shall appear to your glory, when they shall be ashamed.</p>
+            <p>And <hi>Eliphaz</hi> the <hi>Temanite</hi> trembled, &amp; his hair stood on his head, and his bones shook, <hi>Job</hi> 4.14, 15.<note place="margin">
+                  <hi>Job</hi> 4.14, 15.</note> And doth not <hi>Job</hi> say, God removeth the Mountains ere they are aware, and he removeth the earth out of his place, and the pillars of the earth are shaken,<note place="margin">
+                  <hi>Job</hi> 5.9.</note> and what are they turned <hi>Quakers?</hi> The wicked saith to the Lord, Go from us, we will none of his way, and the pillars
+<pb n="5" facs="tcp:47386:4"/> of the Heavens <hi>tremble</hi> and <hi>quake</hi> at his rebuke;<note place="margin">
+                  <hi>Psal.</hi> 18.</note> this the fcoffers are ignorant of; and <hi>Psal.</hi> 18. the earth <hi>trembled</hi> and <hi>quak<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d,</hi> and the foundations thereof <hi>shock,</hi> and was removed at the Lords wrath; and this the wicked and scoffers shall know.</p>
+            <p>Christ Jesus saith, The strong man keeps the house, and all his goods are in peace; and now the strong man is got into the house, in the fall, since the beginning; and man is that house, &amp; Christ is stronger then the strong man, and is come to cast him out, and spoyle his good<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and this you must know before you come into the Garden again; and before you know this, you must know <hi>trembling,</hi> and your salvation wrought out with <hi>fear</hi> and <hi>trembling,</hi> which the Apostle commands you;<note place="margin">
+                  <hi>Matt.</hi> 5.33. <hi>&amp;</hi> 16.<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Acts</hi> 9 6. <hi>Eph.</hi> 6.5. 2 <hi>Cor.</hi> 7.15. 2 <hi>Cor.</hi> 2.3.</note> and then you will not despise Quakers and Tremblers, <hi>Phil.</hi> 2.12.<note place="margin">
+                  <hi>Phil.</hi>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.12</note> but will receive them, and be with such who are in much feare and trembling at the Word of the Lord. And so here appears the ignorance of Profes<g ref="char:EOLhyphen"/>sors and Teachers, of the Scriptures, and trembling at the Word of God, but scoff and scorn in derision them that do; but they are such that the Lord regards that shall appear to their glory, when they shall be con<g ref="char:EOLhyphen"/>founded, <hi>Isa.</hi> 66.<note place="margin">
+                  <hi>Esau.</hi> 66.</note>
+            </p>
+            <p>But the Lord is the true God, he is the living God, and an everlasting King; at his wrath the Earth shall <hi>tremble,</hi> and the Nations shall not be able <hi>to abide his in<g ref="char:EOLhyphen"/>dignation, Jer.</hi> 10.10.<note place="margin">
+                  <hi>Jer.</hi> 10.10. <hi>Ier.</hi> 51.29.</note> and the whole Land shall <hi>trem<g ref="char:EOLhyphen"/>ble;</hi> for every purpose of the Lord shall be brought to pass against them that have afflicted thee, Oh Seed of the Righteous: Can ye endure this, ye Mockers? I be<g ref="char:EOLhyphen"/>held the Mountains, and lo <hi>they trembled,</hi>
+               <note place="margin">
+                  <hi>Ier.</hi> 4.24.</note> and all the Hills moved, and the fruitful place was become <hi>a Wil<g ref="char:EOLhyphen"/>derness,</hi>
+               <pb n="6" facs="tcp:47386:5"/> and all the Cities thereof were broken down at the presence of the Lord.</p>
+            <p>And therefore all ye Nations, Kindreds, Tongues, Peoples, Multitudes, Scoffers, Revilers, Waters, on which the Whore sits; the Cup of <hi>trembling</hi> and Asto<g ref="char:EOLhyphen"/>nishment ye are to know,<note place="margin">
+                  <hi>Ezek.</hi> 32.10. <hi>&amp;</hi> 26.16.</note> and your Kings shall <hi>tremble,</hi> and your Princes, Dukes, Captains, Spoilers, a <hi>Voice of trembling</hi> is heard, and not of Peace, and ye shall all melt away, beating down one another as you go.</p>
+            <trailer>The End.</trailer>
+            <pb facs="tcp:47386:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
